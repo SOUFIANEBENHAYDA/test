@@ -3,6 +3,5 @@ ____________
 asdasd
 asdasdas
 <i class="fa fa-dashcubesd
-ariasd
 " aria-hidden="true"></i>
 test sada3
